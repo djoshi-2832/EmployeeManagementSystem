@@ -3,10 +3,15 @@ This Employee Management System is a full-stack web application developed using 
 The system allows users to perform CRUD (Create, Read, Update, Delete) operations on employee records with token-based authentication using JWT (JSON Web Token).
 
 Technologies Used:
+
 Backend: ASP.NET Core Web API
+
 Frontend: React
+
 Database: SQL Server
+
 Authentication: JWT
+
 
 **Application Architecture**
 Backend (ASP.NET Core Web API):
