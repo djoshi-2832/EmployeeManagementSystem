@@ -18,18 +18,22 @@ Backend (ASP.NET Core Web API):
 Controllers:
 
 LoginController: Handles user authentication and JWT token generation.
+
 EmployeesController: Manages CRUD operations for employee data.
+
 Services:
 
 JWT Token Generation.
+
 Database interaction.
 
 Frontend (React):
 Components:
 
 EmployeeForm.js: A form to add and update employee details.
-EmployeeList.js: A list view to display all employees, with options to edit or delete them.
-App.js: Main component that handles state management and coordination between EmployeeForm and EmployeeList.
-API Calls:
 
-Defined in api.js, handling API requests for employee CRUD operations.
+EmployeeList.js: A list view to display all employees, with options to edit or delete them.
+
+App.js: Main component that handles state management and coordination between EmployeeForm and EmployeeList.
+
+API Calls:Defined in api.js, handling API requests for employee CRUD operations.
