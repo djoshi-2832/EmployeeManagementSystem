@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Xw1Dqs/tEADecp6MhjdNA1LBDuN9LuTCvdJoUW3ybuY=",
+  "Source": "ems-api",
+  "BasePath": "_content/ems-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

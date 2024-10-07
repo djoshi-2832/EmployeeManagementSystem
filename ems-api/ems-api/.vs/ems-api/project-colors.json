@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "64efd5d0-77f4-4d61-8ebd-8d3b36782b28": {
+      "ProjectGuid": "64efd5d0-77f4-4d61-8ebd-8d3b36782b28",
+      "DisplayName": "ems-api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
